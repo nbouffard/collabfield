@@ -18,6 +18,8 @@
 
  // Variables
  @import 'partials/base/variables';
+ @import 'partials/base/default';
 
  // Partials - main css files
+ @import 'partials/*';
  @import 'partials/layout/*';
