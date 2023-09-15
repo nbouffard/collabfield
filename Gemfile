@@ -80,7 +80,7 @@ group :test do
   gem 'poltergeist'
   gem 'database_cleaner'
   gem 'rspec-rails'
-  gem 'factory_girl_rails'
+  gem 'factory_bot'
   gem 'rails-controller-testing'
   gem 'headless'
 
